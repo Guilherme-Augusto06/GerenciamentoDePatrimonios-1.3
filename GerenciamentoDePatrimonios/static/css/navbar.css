@@ -94,6 +94,9 @@
     font-size: 28px;
     list-style-type: none;
 }
+.menuItens-component{
+    margin-left:60px;
+}
 
 .logoImage-Component {
     width: 176px;
